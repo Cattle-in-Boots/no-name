@@ -1,0 +1,8 @@
+/**
+ * Created by hf on 2017/2/21.
+ */
+export const ADD_TYPE_CAT='ADD_TYPE_CAT';
+export const CHECKOUT_REQUEST='CHECKOUT_REQUEST';
+export const CHECKOUT_SUCCESS='CHECKOUT_SUCCESS';
+export const CHECKOUT_FAILURE='CHECKOUT_FAILURE';
+export const RECEIVE_PRODUCTS='RECEIVE_PRODUCTS';
